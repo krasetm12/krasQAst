@@ -1,0 +1,2 @@
+ru/stqa/krasQAst/tests/aTestProverkaFormiDobavitTovar.java
+ ru.stqa.krasQAst.tests.aTestProverkaFormiDobavitTovar
